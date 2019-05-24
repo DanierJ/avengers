@@ -2,3 +2,4 @@
 
 * Doctor Doom
 * Thanos
+* Capitán Marvel
